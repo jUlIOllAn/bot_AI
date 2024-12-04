@@ -1,0 +1,6 @@
+0 Mnd Bolivia
+1 Mnd España
+2 Mnd Colombia
+3 Mnd Mexico
+4 Mnd Argentina
+5 Mnd EE. UU
